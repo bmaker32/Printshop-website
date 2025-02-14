@@ -8,8 +8,8 @@ const BentoBox = () => {
 
         {/* Main Dish Area */}
         <div className="md:col-span-2 lg:col-span-2 row-span-2 rounded-xl overflow-hidden shadow-md">
-          <div className="bg-blue-100 p-6 flex flex-col justify-center items-start h-full">
-            <h2 className="text-2xl font-bold text-gray-800 mb-2">Screen Printing in Ethiopia</h2>
+          <div className="bg-blue-100 p-6 flex flex-col justify-center items-center  md:items-start h-full">
+            <h2 className="text-2xl font-bold text-center md:text-start text-gray-800 mb-2">Screen Printing in Ethiopia</h2>
             <p className="text-gray-700 leading-relaxed">
             Screen printing in Ethiopia faces challenges like limited access to high-quality inks and materials, along with inconsistent power supply, affecting production efficiency and print quality.
             </p>
