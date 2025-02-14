@@ -6,6 +6,7 @@ import Blog from './components/Blog';
 import FAQ from './components/FAQ';
 import ContactUs from './components/ContactUs';
 import Footer from './components/Footer';
+import CustomizableItems from './components/CustomizableItems';
 
 function App() {
   return (
@@ -17,6 +18,7 @@ function App() {
       <div id="landing">
         <Landing />
       </div>
+      <CustomizableItems/>
       <div id="services">
         <Services />
       </div>

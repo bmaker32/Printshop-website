@@ -5,13 +5,14 @@ import ProfileCard from './ProfileCard';
 
 // Profile data
 const profiles = [
-  { name: 'Colored Mug', image:'/assets/corporateProducts/colored mug.jpg' },
-  { name: 'Hat', image: '/assets/corporateProducts/hat.jpg' },
-  { name: 'Key Chain', image: '/assets/corporateProducts/keychain.jpg' },
-  { name: 'Neck Tag', image: '/assets/corporateProducts/neckTag.jpg' },
-  { name: 'Travel mug', image: '/assets/corporateProducts/Travel Mug.jpg' },
-  { name: 'Regular Mugs', image: '/assets/corporateProducts/mugs.jpg' },
+  { name: 'Colored Mug', image: '/printshop-website/assets/corporateProducts/colored mug.jpg' },
+  { name: 'Hat', image: '/printshop-website/assets/corporateProducts/hat.jpg' },
+  { name: 'Key Chain', image: '/printshop-website/assets/corporateProducts/keychain.jpg' },
+  { name: 'Neck Tag', image: '/printshop-website/assets/corporateProducts/neckTag.jpg' },
+  { name: 'Travel mug', image: '/printshop-website/assets/corporateProducts/Travel Mug.jpg' },
+  { name: 'Regular Mugs', image: '/printshop-website/assets/corporateProducts/mugs.jpg' },
 ];
+
 
 export default function CarouselProduct() {
   const responsive = {

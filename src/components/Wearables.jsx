@@ -4,7 +4,7 @@ import PackagingTemplate from './PackagingTemplate'
 const wearablesData = {
     title: 'Wearable Printing Solutions',
     description: 'Discover our premium collection of customizable wearables, perfect for personal use, events, or branding.',
-    imageUrl: '/assets/wearables.jpg', // Replace with your image path
+    imageUrl: '/printshop-website/assets/wearables.jpg', // Replace with your image path
     products: [
       {
         name: 'T-Shirts',

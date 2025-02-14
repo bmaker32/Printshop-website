@@ -3,7 +3,7 @@ import PackagingTemplate from './PackagingTemplate'
 const packagingData = {
     title: 'Packaging Solutions',
     description: 'Explore our wide range of eco-friendly and durable packaging solutions.',
-    imageUrl: '/assets/paperbag.jpg',
+    imageUrl: '/printshop-website/assets/paperbag.jpg',
     products: [
       {
         name: 'Polypropylene Bags',
