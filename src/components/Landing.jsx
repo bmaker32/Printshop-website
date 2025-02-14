@@ -8,7 +8,7 @@ const Landing = () => {
   return (
     <div
       className="grid grid-cols-1 md:grid-cols-4 grid-rows-auto md:grid-rows-2 gap-4 md:gap-6   py-20 px-10  max-w-screen md:max-h-screen bg-cover bg-center bg-no-repeat "
-      style={{ backgroundImage: "url('/assets/background.jpg')" }}
+      style={{ backgroundImage: "url('/printshop-website/assets/background.jpg')" }}
     >
       <div className="py-5 rounded-xl col-span-2 row-span-2  flex flex-col justify-center items-center space-y-6">
         {/* Hero Text with Animation */}
